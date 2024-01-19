@@ -1,0 +1,6 @@
+VenueID,VenueName,Capacity,VenueCost,NoOfSecurity,NoOfCaterers,NoOfEventStaff,PayPerHour
+V1,Stadium 974,200,2500,5,5,15,25
+V2,Khalifa International Stadium,200,2500,5,5,15,25
+V3,Ahmad bin Ali Stadium,200,2500,5,5,15,25
+V4,Lusail Stadium,400,4000,9,10,30,25
+V5,Al Bayt Stadium,350,3500,7,7,17,25

@@ -1,0 +1,6 @@
+TrainStationID,StationName,VenueID,TrainOpsCost,StationStaffCost
+TS01,Stadium 974,V1,75,350
+TS02,Doha Station,V2,75,350
+TS03,Al Rayyan Station,V3,75,350
+TS04,Lusail Station,V4,75,350
+TS05,Al Khor Station,V5,75,350
